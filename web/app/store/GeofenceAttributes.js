@@ -34,5 +34,10 @@ Ext.define('Traccar.store.GeofenceAttributes', {
         name: Strings.attributePolylineDistance,
         valueType: 'number',
         dataType: 'distance'
+    }, {
+        key: 'chartDistance',
+        name: Strings.attributeChartDistance,
+        valueType: 'number',
+        dataType: 'distance'
     }]
 });

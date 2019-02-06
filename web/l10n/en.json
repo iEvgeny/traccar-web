@@ -79,6 +79,7 @@
     "sharedAlarms": "Alarms",
     "attributeSpeedLimit": "Speed Limit",
     "attributePolylineDistance": "Polyline Distance",
+    "attributeChartDistance": "Chart Distance",
     "attributeReportIgnoreOdometer": "Report: Ignore Odometer",
     "attributeWebReportColor": "Web: Report Color",
     "attributeDevicePassword": "Device Password",
